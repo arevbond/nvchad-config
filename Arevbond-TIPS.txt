@@ -1,0 +1,2 @@
+copy and pase from neovim:
+https://askubuntu.com/questions/1486871/how-can-i-copy-and-paste-outside-of-neovim/1503842#1503842
