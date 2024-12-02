@@ -6,12 +6,14 @@
 local M = {}
 
 M.base46 = {
-	theme = "nano-light",
-
+	theme = "one_light",
 	-- hl_override = {
 	-- 	Comment = { italic = true },
 	-- 	["@comment"] = { italic = true },
 	-- },
 }
 
+M.nvdash = {
+    load_on_startup = true,
+}
 return M
